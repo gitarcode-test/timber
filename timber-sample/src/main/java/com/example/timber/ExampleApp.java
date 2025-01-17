@@ -1,7 +1,5 @@
 package com.example.timber;
 
-import static timber.log.Timber.DebugTree;
-
 import android.app.Application;
 import android.util.Log;
 
